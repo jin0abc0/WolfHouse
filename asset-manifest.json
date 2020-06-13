@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WolfHouse/static/css/main.8b95d398.chunk.css",
-    "main.js": "/WolfHouse/static/js/main.efc26e7d.chunk.js",
-    "main.js.map": "/WolfHouse/static/js/main.efc26e7d.chunk.js.map",
+    "main.js": "/WolfHouse/static/js/main.1617ead5.chunk.js",
+    "main.js.map": "/WolfHouse/static/js/main.1617ead5.chunk.js.map",
     "runtime-main.js": "/WolfHouse/static/js/runtime-main.e856ab23.js",
     "runtime-main.js.map": "/WolfHouse/static/js/runtime-main.e856ab23.js.map",
     "static/js/2.51088183.chunk.js": "/WolfHouse/static/js/2.51088183.chunk.js",
     "static/js/2.51088183.chunk.js.map": "/WolfHouse/static/js/2.51088183.chunk.js.map",
     "index.html": "/WolfHouse/index.html",
-    "precache-manifest.082efd96a9a3ae308f3e728319d1d1b3.js": "/WolfHouse/precache-manifest.082efd96a9a3ae308f3e728319d1d1b3.js",
+    "precache-manifest.c7e09e2dbd928d447aa63528187ec67f.js": "/WolfHouse/precache-manifest.c7e09e2dbd928d447aa63528187ec67f.js",
     "service-worker.js": "/WolfHouse/service-worker.js",
     "static/css/main.8b95d398.chunk.css.map": "/WolfHouse/static/css/main.8b95d398.chunk.css.map",
     "static/js/2.51088183.chunk.js.LICENSE.txt": "/WolfHouse/static/js/2.51088183.chunk.js.LICENSE.txt",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.e856ab23.js",
     "static/js/2.51088183.chunk.js",
     "static/css/main.8b95d398.chunk.css",
-    "static/js/main.efc26e7d.chunk.js"
+    "static/js/main.1617ead5.chunk.js"
   ]
 }
